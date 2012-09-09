@@ -23,26 +23,7 @@ CodePrjSrc/gtest-all.d CodePrjSrc/gtest-all.o:  \
   /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-test-part.h \
   /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-typed-test.h \
   /Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-type-util.h \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest_pred_impl.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-spi.h \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-internal-inl.h \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-port.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-death-test.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-death-test.h \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-message.h \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-string.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-filepath.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-filepath.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-port.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-internal.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-printers.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-printers.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-test-part.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-test-part.h \
-  /Users/xuwei/git/study_gtest/CodePrj/src/gtest-typed-test.cc \
-  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-typed-test.h
+  /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest_pred_impl.h
 
 /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest.h:
 
@@ -91,41 +72,3 @@ CodePrjSrc/gtest-all.d CodePrjSrc/gtest-all.o:  \
 /Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-type-util.h:
 
 /Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest_pred_impl.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-spi.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-internal-inl.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-port.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-death-test.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-death-test.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-message.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-string.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-filepath.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-filepath.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-port.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/internal/gtest-internal.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-printers.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-printers.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-test-part.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-test-part.h:
-
-/Users/xuwei/git/study_gtest/CodePrj/src/gtest-typed-test.cc:
-
-/Users/xuwei/git/study_gtest/CodePrj/include/gtest/gtest-typed-test.h:
