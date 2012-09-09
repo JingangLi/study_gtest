@@ -25,6 +25,13 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>CodePrjSrc</name>
+			<type>2</type>
+			<locationURI>CodePrjSrc</locationURI>
+		</link>
+	</linkedResources>
 	<variableList>
 		<variable>
 			<name>CodePrjSrc</name>
